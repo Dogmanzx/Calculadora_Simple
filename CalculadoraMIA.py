@@ -52,4 +52,4 @@ while True:
     elif opcion == 5:
         print("Resultado: ", potencia(num1, num2))
     else:
-        print("Opción inválida. Por favor, elige una opción entre 1 y 5.")
+        print("Opción inválida. Por favor, elige una opción entre 1 y 7.")
